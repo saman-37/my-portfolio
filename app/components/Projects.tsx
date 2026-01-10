@@ -25,6 +25,7 @@ const projects = [
       "Coordinated development via GitHub and Kanban to maintain transparency and consistency.",
     ],
     github: "https://github.com/saman-37/FerryReservationSystem.git",
+    live: "https://github.com/saman-37/FerryReservationSystem?tab=readme-ov-file",
   },
   {
     title: "Squat Posture Classifier (Machine Learning)",
