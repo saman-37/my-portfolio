@@ -11,7 +11,7 @@ export default function Hero() {
               Hey, I am
             </p>
             <h1 className="text-6xl font-extrabold tracking-tight">
-              a Tech Enthusiast
+              Saman.
             </h1>
           </div>
 
