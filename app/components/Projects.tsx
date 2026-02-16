@@ -52,8 +52,8 @@ const projects = [
       "Added a profile module with camera/gallery image selection, privacy preferences, and unit settings.",
       "Improved reliability with SQLite storage + lifecycle-aware data handling for smooth persistence/retrieval.",
     ],
-    github: "", 
-    live: "", 
+    github: "https://github.com/saman-37/MobileWorkoutTrackingApp", 
+    live: "https://github.com/saman-37/MobileWorkoutTrackingApp", 
   },
 ];
 
