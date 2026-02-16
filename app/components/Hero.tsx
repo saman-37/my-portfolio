@@ -21,14 +21,6 @@ export default function Hero() {
             and ship projects that feel polished.
           </p>
 
-          <div className="flex flex-wrap gap-4">
-            <a
-              href="#contact"
-              className="px-6 py-3 rounded-full bg-gradient-to-r from-red-500 via-purple-500 to-blue-500 font-semibold"
-            >
-              Contact Me
-            </a>
-
             {/* Resume (PDF) from /public */}
             <a
               href="/Resume.pdf"
@@ -53,7 +45,6 @@ export default function Hero() {
             />
           </div>
         </div>
-      </div>
     </section>
   );
 }
