@@ -23,7 +23,7 @@ export default function Hero() {
 
             {/* Resume (PDF) from /public */}
             <a
-              href="/Resume.pdf"
+              href="/BusinessAnalystResume.pdf"
               target="_blank"
               rel="noreferrer"
               className="px-6 py-3 rounded-full border border-white/25 hover:border-white/50 transition font-semibold"
