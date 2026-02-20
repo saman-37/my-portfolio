@@ -16,7 +16,7 @@ export default function Hero() {
           </div>
 
           <p className="text-white/70 text-lg leading-relaxed max-w-xl">
-            As an aspiring software engineer and business analyst, I love interacting with businesses to fetch real needs, turning them into technical handbook, and working towards clean,
+            I love interacting with businesses to fetch real needs, turning them into technical handbook, and working towards clean,
             user-friendly software solutions. I help build systems, design interfaces,
             and ship projects that feel polished.
           </p>
