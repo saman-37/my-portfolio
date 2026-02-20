@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Hero() {
   return (
-    <section className="min-h-screen bg-black text-white flex items-center">
+    <section className="min-h-screen bg-black text-white flex items-center justify-center px-6">
       <div className="max-w-6xl mx-auto px-6 py-24 grid lg:grid-cols-2 gap-14 items-center">
         {/* Left: Text */}
         <div className="space-y-8">
@@ -16,8 +16,8 @@ export default function Hero() {
           </div>
 
           <p className="text-white/70 text-lg leading-relaxed max-w-xl">
-            As an aspiring software engineer, I love turning ideas into clean,
-            user-friendly software solutions. I build systems, design interfaces,
+            As an aspiring software engineer and business analyst, I love interacting with businesses to fetch real needs, turning them into technical handbook, and working towards clean,
+            user-friendly software solutions. I help build systems, design interfaces,
             and ship projects that feel polished.
           </p>
 
